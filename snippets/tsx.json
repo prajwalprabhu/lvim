@@ -1,0 +1,22 @@
+{
+  "row": {
+    "prefix": "row",
+    "body": [
+      "<div class=\"row m-1\">",
+      "\t<div class=\"col-2\">",
+      "\t\t<small>Identification Type </small>",
+      "\t</div>",
+      "\t<div class=\"col-3\">",
+      "\t<input type=\"text\" class=\"form-control\" />",
+      "\t</div>",
+      "\t<div class=\"col-2\">",
+      "\t<small>Identification Number</small>",
+      "\t</div>",
+      "\t<div class=\"col-3\">",
+      "\t\t<input type=\"text\" class=\"form-control\" />",
+      "\t</div>",
+      "</div>",
+    ],
+    "description": "Row..."
+  }
+}
